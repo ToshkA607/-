@@ -12,7 +12,6 @@
 | Проект | Тема | Файлы |
 |--------|------|-------|
 | **D01** | Linux и Git | `src/sort.c`, `src/maxmin.c` и др. |
-| **D03** | Структуры управления C | `src/quest3.c`, `src/1948.c` |
 | **D05** | Игра Pong | `src/pong.c`, `src/pong_interactive.c` |
 | **D07** | Указатели и массивы | `src/maxmin.c`, `src/stat.c`, `src/search.c` |
 | **D08** | Динамическая память и матрицы | `src/matrix.c`, `src/det.c`, `src/invert.c` |
